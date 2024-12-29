@@ -19,5 +19,5 @@ def compress_pdf(source_file_path):
     
     shutil.move(src, dest)
         
-    print(f"{os.path.basename(source_file_path)} is ready at 'Results' folder.")
+    print(f"{os.path.basename(source_file_path)} is ready at 'Results' folder. You can now close this prompt.")
 
