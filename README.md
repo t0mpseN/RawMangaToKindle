@@ -67,4 +67,4 @@ The script `install_dependencies.bat` should install all the dependencies needed
 
 ## CREDITS
 
-All credits go to the creators of [Mokuro](https://github.com/kha-white/mokuro), [Mokuro2Pdf](https://github.com/Kartoffel0/Mokuro2Pdf) and all other dependencies used on this project. *This is a simple AI generated program that tries to simplify the process while adding some basic features.*
+All credits go to the creators of [Mokuro](https://github.com/kha-white/mokuro), [Mokuro2Pdf](https://github.com/Kartoffel0/Mokuro2Pdf) and all other dependencies used on this project. *This is a simple program that tries to simplify the process while adding some basic features like **chapter compiling** and **pdf compression**.*
