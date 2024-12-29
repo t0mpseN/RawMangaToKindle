@@ -28,6 +28,15 @@ RawMangaToOCR-PDF/  # Root directory of the project (Git repo)
 
 The main scope of this script is to make Japanese text selectable through .pdf files, being able to open them on browsers while using extensions like [Yomitan](https://github.com/yomidevs/yomitan), or even sending manga directly to Kindle and using the digital dictionaries, turning Japanese reading more enjoyable and accessible.
 
+### RESULT EXAMPLE
+
+[![EXAMPLE](https://github.com/user-attachments/assets/e54a82ff-fc3e-439b-8ad1-ea420aba9e2b)](https://github.com/user-attachments/files/18268420/Example.-.Vol1to1.pdf)
+
+<iframe src="https://github.com/user-attachments/files/18268420/Example.-.Vol1to1.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="path/to/your/file.pdf">Download PDF</a>.
+</iframe>
+
+
 ## INSTRUCTIONS
 
 ### (A) COMPILING CHAPTERS INTO VOLUMES
