@@ -55,6 +55,7 @@ while compress.lower() != "y" and compress.lower() != "n":
         if os.path.exists(dest):
             os.remove(dest)
         shutil.move(src, dest)
+        print(f"{os.path.basename(source_file_path)} is ready at 'Results' folder. You can now close this prompt.")
     else:
         print("Please insert a valid answer. (y/n)")
 
