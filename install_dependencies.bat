@@ -1,3 +1,4 @@
+@ECHO OFF
 @ECHO Installing dependencies. . .
 @ECHO For more information, please visit: https://github.com/t0mpseN/RawMangaToPDF-OCR
 
