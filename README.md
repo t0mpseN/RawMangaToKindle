@@ -53,7 +53,7 @@ The script `install_dependencies.bat` should install all the dependencies needed
 
 - [Mokuro](https://github.com/kha-white/mokuro) `pip install mokuro`
 
-- [Mokuro2Pdf](https://github.com/Kartoffel0/Mokuro2Pdf) (already included inside scripts, needing only the dependencies listed below)
+- [Mokuro2Pdf](https://github.com/Kartoffel0/Mokuro2Pdf) *(already included inside scripts, needing only the dependencies listed below)*
 
   - [Ruby](https://rubyinstaller.org/downloads/) **(needs to be on PATH)**
 
