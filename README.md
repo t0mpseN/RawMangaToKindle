@@ -26,11 +26,15 @@ RawMangaToOCR-PDF/  # Root directory of the project (Git repo)
 
 ## USAGE
 
-The main scope of this script is to make Japanese text selectable through .pdf files, being able to open them on browsers while using extensions like [Yomitan](https://github.com/yomidevs/yomitan), or even sending manga directly to Kindle and using the digital dictionaries, turning Japanese reading more enjoyable and accessible.
+The main scope of this script is to make **Japanese text selectable through .pdf files**, being able to open them on browsers while using extensions like [Yomitan](https://github.com/yomidevs/yomitan), or even sending manga directly to Kindle and using the digital dictionaries, turning Japanese reading more *enjoyable* and *accessible*.
 
 ### RESULT EXAMPLE
+
 - Click on the image to view the OCR-processed PDF.
+  
 [![EXAMPLE](https://github.com/user-attachments/assets/e54a82ff-fc3e-439b-8ad1-ea420aba9e2b)](https://github.com/user-attachments/files/18268420/Example.-.Vol1to1.pdf)
+
+*Images from **Astro Boy by Tezuka Osamu. 鉄腕アトム - 手塚 治虫***
 
 ## INSTRUCTIONS
 
