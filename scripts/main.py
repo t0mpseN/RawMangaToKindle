@@ -63,7 +63,7 @@ seconds = 10
 while seconds > 0:
     mins, secs = divmod(seconds, 60)
     timer = '{:02d}'.format(secs)
-    print(f"Closing in {timer}", end="\r")
+    print(f"Automatically closing in {timer}", end="\r")
     time.sleep(1)
     seconds -= 1
    
